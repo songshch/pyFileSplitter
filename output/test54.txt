@@ -1,0 +1,16 @@
+
+            </div>
+            <div id="side_right">
+                    <div class="w_r">
+                        <h4><a href="https://news.cnblogs.com/n/comment" class="s_r_t">最新新闻评论</a><span class="more"><a href="https://news.cnblogs.com/n/comment" class="right_more">»</a></span></h4>
+                        <div id="news_comments"><div style="margin:0 auto;width:50px;"><img src="//common.cnblogs.com/images/loading.gif" alt="loading..." /></div></div>
+                        <script>
+                            $.get('/aggsite/NewsComments', null, function(data){
+                                $('#news_comments').html(data);
+                            }, 'text');
+                        </script>
+                    </div>
+                <div id="banner_right"></div>                                           
+                <div id="ad_b1" class="ad_right"></div>
+                <div id="ad_right_text" class="ad_right_text"></div>
+                <div id="side_right_block"></div>

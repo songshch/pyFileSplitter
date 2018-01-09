@@ -1,0 +1,12 @@
+            <p class="post_item_summary">
+                    <a href="//news.cnblogs.com/n/topic_1.htm" target="_blank"><img width="48" class="pfs" src="//images2015.cnblogs.com/news_topic/20150902111809872-2061679551.png" alt="" /></a>
+                多年来，Google Brain 团队致力于智能的机器学习来改善人们的生活。为此，无论是在纯理论研究的领域，还是将研究成果投入实际应用，探索从未停止。近期，Google Brain 团队负责人 Jeff Dean 对 2016 年在各领域取得的重大进展进行了总结。理论研究成果：发表 27...
+            </p>
+            <div class="post_item_foot">
+                <a href="//home.cnblogs.com/u/34358/" class="lightblue" target="_blank">itwriter</a>
+                发布于 2017-01-15 13:09
+                <span class="article_comment">
+                    <a href="//news.cnblogs.com/n/561096#bottom" class="gray" target="_blank">
+                        评论(1)
+                    </a>
+                </span><span class="article_view"><a href="//news.cnblogs.com/n/561096/" class="gray" target="_blank">阅读(393)</a></span>

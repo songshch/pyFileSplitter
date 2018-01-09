@@ -1,0 +1,17 @@
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="post_item">
+        <div class="digg">
+            <div class="diggit">
+                <span class="diggnum" id="digg_count_561079">0</span>
+            </div>
+            <div class="clear"></div>
+            <div id="digg_tip_561079" class="digg_tip"></div>
+        </div>
+        <div class="post_item_body">
+            <h3><a class="titlelnk" href="//news.cnblogs.com/n/561079/" target="_blank">1%的悲哀 三星停止提供WP程序</a></h3>
+            <p class="post_item_summary">
+                    <a href="//news.cnblogs.com/n/topic_290.htm" target="_blank"><img width="48" class="pfs" src="//images0.cnblogs.com/news_topic/windows_phone.jpg" alt="" /></a>
+                Windows Phone 推出几年来，市场占有率越来越低，几乎已经要消失在主流用户面前了。因此，不少厂商已经逐渐开始停止对这一平台的支持。今天，三星宣布，从今年 4 月 1 日开始，不再为 Windows Phone 用户提供 SmartThings 应用程序。SmartThi...

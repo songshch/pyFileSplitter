@@ -1,0 +1,12 @@
+            <p class="post_item_summary">
+                    <a href="//news.cnblogs.com/n/topic_485.htm" target="_blank"><img width="48" class="pfs" src="//images0.cnblogs.com/news_topic/20150106141438015.png" alt="" /></a>
+                在董明珠要求格力全体员工使用格力手机之后，格力手机 3 代现身工信部了。从查询到的信息得知，格力手机 3 代型号为 G0245D，配置相比 2 代来说没有任何提升，甚至还有缩水的地方，因此价格应该会更便宜。具体来说，格力手机 3 代采用的是 5.5 英寸 1080p 显示屏，搭载...
+            </p>
+            <div class="post_item_foot">
+                <a href="//home.cnblogs.com/u/34358/" class="lightblue" target="_blank">itwriter</a>
+                发布于 2017-01-14 21:13
+                <span class="article_comment">
+                    <a href="//news.cnblogs.com/n/561080#bottom" class="gray" target="_blank">
+                        评论(0)
+                    </a>
+                </span><span class="article_view"><a href="//news.cnblogs.com/n/561080/" class="gray" target="_blank">阅读(333)</a></span>

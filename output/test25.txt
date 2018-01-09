@@ -1,0 +1,11 @@
+            <p class="post_item_summary">
+                    <a href="//news.cnblogs.com/n/topic_372.htm" target="_blank"><img width="48" class="pfs" src="//images0.cnblogs.com/news_topic/微信.png" alt="" /></a>
+                1 月 15 日消息，本周微信小程序热火朝天了。可惜的是 13 日证监会紧急下发书面通知，要求基金公司暂停有交易功能的小程序，只允许产品页面展示的功能存在。已经完成的基金小程序仅仅存活了四天。据消息了解，通过微信小程序提供的列表单来看，&amp;ldquo;尝鲜&amp;rdquo;小程序的基金公司...
+            </p>
+            <div class="post_item_foot">
+                <a href="//home.cnblogs.com/u/34358/" class="lightblue" target="_blank">itwriter</a>
+                发布于 2017-01-15 12:50
+                <span class="article_comment">
+                    <a href="//news.cnblogs.com/n/561090#bottom" class="gray" target="_blank">
+                        评论(0)
+                    </a>

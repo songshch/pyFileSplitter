@@ -1,0 +1,18 @@
+                </span><span class="article_view"><a href="//news.cnblogs.com/n/561082/" class="gray" target="_blank">阅读(137)</a></span>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="post_item">
+        <div class="digg">
+            <div class="diggit">
+                <span class="diggnum" id="digg_count_561081">0</span>
+            </div>
+            <div class="clear"></div>
+            <div id="digg_tip_561081" class="digg_tip"></div>
+        </div>
+        <div class="post_item_body">
+            <h3><a class="titlelnk" href="//news.cnblogs.com/n/561081/" target="_blank">微软：Windows 7已过时 不安全</a></h3>
+            <p class="post_item_summary">
+                    <a href="//news.cnblogs.com/n/topic_147.htm" target="_blank"><img width="48" class="pfs" src="//images0.cnblogs.com/news_topic/windows_7.jpg" alt="" /></a>
+                虽然微软一直在推荐 Windows 7 用户尽快升级到 Windows 10，但从目前的情况来看这一速度非常缓慢。据第三方统计，目前 Windows 7 的市场份额已经接近 50%，是当之无愧的第一大操作系统。日前，微软已经开始新一轮的宣传，促使用户升级 Windows 10 了。微...

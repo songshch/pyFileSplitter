@@ -1,0 +1,23 @@
+            </p>
+            <div class="post_item_foot">
+                <a href="//home.cnblogs.com/u/34358/" class="lightblue" target="_blank">itwriter</a>
+                发布于 2017-01-15 18:51
+                <span class="article_comment">
+                    <a href="//news.cnblogs.com/n/561032#bottom" class="gray" target="_blank">
+                        评论(0)
+                    </a>
+                </span><span class="article_view"><a href="//news.cnblogs.com/n/561032/" class="gray" target="_blank">阅读(212)</a></span>
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="post_item">
+        <div class="digg">
+            <div class="diggit">
+                <span class="diggnum" id="digg_count_561102">0</span>
+            </div>
+            <div class="clear"></div>
+            <div id="digg_tip_561102" class="digg_tip"></div>
+        </div>
+        <div class="post_item_body">
+            <h3><a class="titlelnk" href="//news.cnblogs.com/n/561102/" target="_blank">亚马逊CEO贝索斯买博物馆做住宅 与特朗普女儿做邻居</a></h3>

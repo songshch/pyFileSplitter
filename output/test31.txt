@@ -1,0 +1,11 @@
+            <p class="post_item_summary">
+                    <a href="//news.cnblogs.com/n/topic_177.htm" target="_blank"><img width="48" class="pfs" src="//images0.cnblogs.com/news_topic/未命名-1.jpg" alt="" /></a>
+                4G 时代的联通远不如过去活得滋润，尤其是近两年更是&amp;ldquo;多灾多难&amp;rdquo;。在 2015 年二月底，联通正式获得 4G 牌照，受该利好消息影响，中国联通股价在当天暴涨7%。但是，好景不长，提速降费以及三大运营商的重组，导致联通股价此后连连下跌。许多在高位追涨的股民都表示，&amp;ld...
+            </p>
+            <div class="post_item_foot">
+                <a href="//home.cnblogs.com/u/34358/" class="lightblue" target="_blank">itwriter</a>
+                发布于 2017-01-15 12:37
+                <span class="article_comment">
+                    <a href="//news.cnblogs.com/n/561086#bottom" class="gray" target="_blank">
+                        评论(1)
+                    </a>

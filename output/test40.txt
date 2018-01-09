@@ -1,0 +1,11 @@
+            <p class="post_item_summary">
+                    <a href="//news.cnblogs.com/n/topic_372.htm" target="_blank"><img width="48" class="pfs" src="//images0.cnblogs.com/news_topic/微信.png" alt="" /></a>
+                微信团队发出了一份声明，宣布公众号赞赏资金单日 5 万的上限调整为单日 10 万。微信表示，平台之所以设置单日上限，也是出于保障赞赏用户利益和风险控制的考虑。结算周期调整为 7 天后结算，赞赏用户利益得到保障，资金风险一定程度上也降低，所以相应提高了单日上限。微信表示，会不断观察...
+            </p>
+            <div class="post_item_foot">
+                <a href="//home.cnblogs.com/u/34358/" class="lightblue" target="_blank">itwriter</a>
+                发布于 2017-01-14 21:45
+                <span class="article_comment">
+                    <a href="//news.cnblogs.com/n/561082#bottom" class="gray" target="_blank">
+                        评论(0)
+                    </a>

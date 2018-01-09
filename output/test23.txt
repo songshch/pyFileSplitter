@@ -1,0 +1,17 @@
+            </div>
+        </div>
+        <div class="clear"></div>
+    </div>
+    <div class="post_item">
+        <div class="digg">
+            <div class="diggit">
+                <span class="diggnum" id="digg_count_561091">0</span>
+            </div>
+            <div class="clear"></div>
+            <div id="digg_tip_561091" class="digg_tip"></div>
+        </div>
+        <div class="post_item_body">
+            <h3><a class="titlelnk" href="//news.cnblogs.com/n/561091/" target="_blank">斗鱼陈少杰：直播不是网红和秀场，斗鱼要从轻平台变成重平台</a></h3>
+            <p class="post_item_summary">
+                    <a href="//news.cnblogs.com/n/topic_697.htm" target="_blank"><img width="48" class="pfs" src="//images2015.cnblogs.com/news_topic/20160315135211787-1967702646.png" alt="" /></a>
+                猎云网（微信：ilieyun）1 月 13 日，第二届&amp;ldquo;光谷互联网+创新发展论坛&amp;rdquo; 在武汉光谷资本大厦举行。本届大会由东湖高新区管委会互联网+办公室主办，武汉光谷科技金融发展有限公司、武汉东湖新技术开发区生产力促进中心、光谷资本大厦协办。会上包括斗鱼 TV C...

@@ -1,4 +1,3 @@
-#!user/bin/python3
 # -*- coding:utf-8 -*-
 
 """
@@ -13,9 +12,9 @@ import Result
 output=u"D:\\song\\workspace\\PythonProject\\filesplitter\\output"
 
 """
-分割后每个文件的大小(M)
+分割后每个文件的大小(B)
 """
-size=10
+size=1024
 
 """
 分割后文件名称前缀，如果为空使用原始文件名称

@@ -1,4 +1,3 @@
-#! user/bin/python3
 # -*- coding:utf-8 -*-
 """
 author:songmohan
@@ -8,6 +7,7 @@ desc:实现大文件的分割
 
 import os
 import settings
+from splitter import FileSplitter 
 
 def createdirifnotexists(dirpath):
 	if os.path.exists(dirpath)==False:
@@ -27,6 +27,8 @@ def main():
   inputpath=input(u"请输入需要分割的文件路径：")
   if os.path.isfile(inputpath):
   	print(u"文件存在")
+  	filesplitter=FileSplitter(inputpath)
+  	filesplitter.split()
   else:
     print(u"没有找到文件：%s" % (inputpath))
   

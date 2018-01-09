@@ -1,0 +1,12 @@
+            <p class="post_item_summary">
+                    <a href="//news.cnblogs.com/n/topic_2.htm" target="_blank"><img width="48" class="pfs" src="//images0.cnblogs.com/news_topic/微软.png" alt="" /></a>
+                微软宣布了 Windows 10 PC Creators Update 游戏方面的功能：Beam 游戏直播、游戏模式等功能。Beam 是 Windows 10 和 Xbox One 最简单的直播方案，绑定 Xbox Live 账号，就可以开始直播游戏。游戏模式是前阵子曝光的功能，...
+            </p>
+            <div class="post_item_foot">
+                <a href="//home.cnblogs.com/u/34358/" class="lightblue" target="_blank">itwriter</a>
+                发布于 2017-01-14 20:51
+                <span class="article_comment">
+                    <a href="//news.cnblogs.com/n/561078#bottom" class="gray" target="_blank">
+                        评论(0)
+                    </a>
+                </span><span class="article_view"><a href="//news.cnblogs.com/n/561078/" class="gray" target="_blank">阅读(128)</a></span>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="zh-cn">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>新闻区 - 博客园</title>
+        <link rel="shortcut icon" href="//common.cnblogs.com/favicon.ico" type="image/x-icon" />
+    <link rel="Stylesheet" type="text/css" href="/bundles/aggsite.css?v=d5xqMAesQQmJEzp-oQQMEYIIM9xtfxTm0Y079uE7QvQ1" />
+    <link rel="Stylesheet" type="text/css" media="only screen and (max-width: 980px)" href="/bundles/aggsite-mobile.css?v=8emd1xhfA-p4DmNUv7j8iw5NMG-lf4f0ywhhHtUmSSk1" />
+    <link id="RSSLink" title="RSS" type="application/rss+xml" rel="alternate" href="http://feed.cnblogs.com/news/rss" />
+    <script src="//common.cnblogs.com/script/jquery.js" type="text/javascript"></script>
+    <script src="/bundles/aggsite.js?v=yOSnecXGxcu5fJ_nz-cF9GxqzqleafS76V7tKOxbTSw1" type="text/javascript"></script>
+</head>
+<body>
+    <div id="wrapper">
+        <div id="hd_info">
+            <div id="cnts">
+                <div id="site_nav_top">代码改变世界</div>

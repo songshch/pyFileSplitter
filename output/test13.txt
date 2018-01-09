@@ -1,0 +1,12 @@
+            <p class="post_item_summary">
+                    <a href="//news.cnblogs.com/n/topic_2.htm" target="_blank"><img width="48" class="pfs" src="//images0.cnblogs.com/news_topic/微软.png" alt="" /></a>
+                在美国新一届总统班子即将上任的时候，微软总裁兼首席法务官 Brad Smith 也向他们给出了一系列公共政策建议。其中涉及&amp;ldquo;打造一套可带来机遇的、更平衡的议程&amp;rdquo;，&amp;ldquo;工作与教育培训&amp;rdquo;，&amp;ldquo;改进刑事司法体系&amp;rdquo;，&amp;ldquo;公平薪...
+            </p>
+            <div class="post_item_foot">
+                <a href="//home.cnblogs.com/u/34358/" class="lightblue" target="_blank">itwriter</a>
+                发布于 2017-01-15 13:12
+                <span class="article_comment">
+                    <a href="//news.cnblogs.com/n/561098#bottom" class="gray" target="_blank">
+                        评论(0)
+                    </a>
+                </span><span class="article_view"><a href="//news.cnblogs.com/n/561098/" class="gray" target="_blank">阅读(119)</a></span>
