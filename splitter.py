@@ -16,6 +16,7 @@ class FileSplitter:
 		self.filesize=settings.size
 		self.name=settings.nameprefix
 		self.number=1
+		self.ext=settings.fileext
 	
 	"""
 	分割主方法
@@ -57,7 +58,7 @@ class FileSplitter:
 	def write(self,lines):
 		if len(lines)==0 :
 			return
-		filename = self.name+str(self.number)+".txt";
+		filename = self.name+str(self.number)+self.ext;
 		print(filename)
 		filepath=os.path.join(self.outoutpath,filename)
 		file = open(filepath,"wb");

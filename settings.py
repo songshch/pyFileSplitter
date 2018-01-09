@@ -9,7 +9,7 @@ import Result
 """
 分割后文件输出路径
 """
-output=u"D:\\song\\workspace\\PythonProject\\filesplitter\\output"
+output=u"D:\\output"
 
 """
 分割后每个文件的大小(B)
@@ -21,7 +21,10 @@ size=1024
 """
 nameprefix="test";
 
-
+"""
+文件扩展名
+"""
+fileext=".txt"
 
 def checksettings():
 	checkresult= Result.Result()
